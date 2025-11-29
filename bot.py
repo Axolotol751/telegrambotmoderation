@@ -2,7 +2,7 @@ import logging
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types import ChatPermissions
 
-API_TOKEN = "token_bot"
+API_TOKEN = "8371048146:AAFzCWlxb5mkouEoIQDn24LP-ZPqKQiYvgs"
 
 logging.basicConfig(level=logging.INFO)
 
